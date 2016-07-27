@@ -1,6 +1,6 @@
 Installation Requirements:  
 1. pip  
-   a. for Mac  
+ ..* for Mac  
 ```javascript
 brew install pip
 ```
