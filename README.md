@@ -20,7 +20,9 @@ It covers:
 4. day 4 - VISUALIZATION  
    a. web development micro framework flask - http://flask.pocoo.org/  
    b. data-driven documents - D3.js: https://d3js.org/  
-   c. MongoDB - https://www.mongodb.com/  
+   c. crossfilter.js - grouping, fildering and aggregating large documents - http://square.github.io/crossfilter/  
+   d. DC.js - leveraging both D3.js and crossfilter.js, great for highly interactive charts - http://dc-js.github.io/dc.js/  
+   e. MongoDB - https://www.mongodb.com/  
 5. day 5 - BIG DATA AND MACHINE LEARNING  
    a. H2O - http://www.h2o.ai/  
 
