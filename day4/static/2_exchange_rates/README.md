@@ -6,7 +6,7 @@
 
 ## Result  
 
-![alt tag](https://github.com/estambolieva/fast_track_to_python/blob/master/day4/static/exchange_rates/images/exchange_rate_screen.PNG)
+![alt tag](https://github.com/estambolieva/fast_track_to_python/blob/master/day4/images/exchange_rate_screen.PNG)
 
 ### Notes:  
 This guide follows this [tutorial](https://pythonspot.com/en/flask-json-and-the-google-charts-api/)  
