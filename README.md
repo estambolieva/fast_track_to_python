@@ -1,7 +1,10 @@
 This is a 5-day fast track to Python course, which is meant to provide all nececssary background to data scientists, devOps or big data specialists. This course is specificaly designed for Marionete.  
 
 It covers:  
-
+  
+0. Python Basics:  
+  * if someone has never coded in Python, read page 4-6, PDF page 6-8 in this guide [here](https://github.com/LxMLS/lxmls_guide/tree/master/guides)  
+  
 1. day 1 - GENERAL  
    a. data structures
       a.a JSON: http://www.json.org/
