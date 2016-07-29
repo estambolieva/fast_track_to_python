@@ -54,5 +54,9 @@ pip install itsdangerous
   
 1.Install tect editor Sublime Text. Instructions [here](http://docs.sublimetext.info/en/latest/getting_started/install.html)  
 
+<<<<<<< HEAD
 2. Flask app logging explained with simple code [here](https://gist.github.com/ibeex/3257877)  
 3. Additional Flask Tutorial: http://www.numericalexpert.com/blog/flask_refs/  
+=======
+2. Flask app logging explained with simple code [here](https://gist.github.com/ibeex/3257877)  
+>>>>>>> fe9d333f27fd417cd8f9a35af395feb33d226ff7
