@@ -21,3 +21,51 @@
   * dropna()  
   
 6. Masks and Filtering  
+  
+7. From Categorical to Numerical values  
+  * dummy variables - get_dummy()  
+
+## Pandas Introductions  
+  
+1. Series  
+  * index  
+  * median()  
+  * operations  
+  * name attribute  
+  * dot product  
+
+2. DataFrames  
+
+  * constructors  
+  * slicing  
+  * operations  
+  * column insertion  
+  * column deletion  
+  * row slicing  
+  * data alignment and arithmetic  
+  * column substitution  
+  * addition  
+  * boolean operators  
+  * transposing  
+  * interoperability with numpy functions   
+  
+3. Time Series - Stamps and Spans 
+  * date_range()  
+    * period  
+    * frequency  
+  *  hours as index  
+  * change time series frequency 
+    * method   
+  * time stamps  
+  * time spans - Period  
+  * Series to Timestamps 
+  * invalid data  
+    * transformation to NaT  
+  * range ot timestamps  
+  * limits  
+
+Note:  
+  
+Read more about pandas.Series [here](http://pandas.pydata.org/pandas-docs/stable/dsintro.html)  
+
+The time Series tutorials follows this [one](http://pandas.pydata.org/pandas-docs/stable/timeseries.html)  
