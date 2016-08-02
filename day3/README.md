@@ -23,7 +23,12 @@
   * unfunc at  
   * adding a column - append() v.s. hstack() v.s. r_()  
   
-## [Scipy](https://www.scipy.org/)     
+## [Scipy](https://www.scipy.org/)   
+
+1.
+  
+2. Advanced Scipy  
+  * sparse matrices     
   
 ## Matplotlib  
   
@@ -47,4 +52,7 @@ Additional Resources:
   * Advanced Numpy [here](http://www.scipy-lectures.org/advanced/advanced_numpy/)   
   * Scipy [Lectures](http://www.scipy-lectures.org/)  
   * Matplotlib short intro [here](https://github.com/LxMLS/lxmls_guide/blob/master/guides/LxMLS2015.pdf), page 9-10
-  * Gradient Based Methods [here](https://github.com/LxMLS/lxmls_guide/blob/master/guides/LxMLS2015.pdf), page 21-25    
+  * Gradient Based Methods [here](https://github.com/LxMLS/lxmls_guide/blob/master/guides/LxMLS2015.pdf), page 21-25  
+  * Inner workings of a numpy array [here](http://docs.scipy.org/doc/numpy/reference/arrays.html)  
+  * Numpy array operations special methods [here](http://docs.scipy.org/doc/numpy/reference/arrays.ndarray.html#special-methods)    
+  * Python List implementatio and inner workings [here](http://www.laurentluce.com/posts/python-list-implementation/) and [here](https://metarabbit.wordpress.com/2013/12/03/python-lists-are-not-lists-a-history/)    
