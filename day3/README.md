@@ -55,4 +55,6 @@ Additional Resources:
   * Gradient Based Methods [here](https://github.com/LxMLS/lxmls_guide/blob/master/guides/LxMLS2015.pdf), page 21-25  
   * Inner workings of a numpy array [here](http://docs.scipy.org/doc/numpy/reference/arrays.html)  
   * Numpy array operations special methods [here](http://docs.scipy.org/doc/numpy/reference/arrays.ndarray.html#special-methods)    
-  * Python List implementatio and inner workings [here](http://www.laurentluce.com/posts/python-list-implementation/) and [here](https://metarabbit.wordpress.com/2013/12/03/python-lists-are-not-lists-a-history/)    
+  * Python List implementatio and inner workings [here](http://www.laurentluce.com/posts/python-list-implementation/) and [here](https://metarabbit.wordpress.com/2013/12/03/python-lists-are-not-lists-a-history/)  
+  * Seaborn: Plotting univariate distributions [here](https://stanford.edu/~mwaskom/software/seaborn/tutorial/distributions.html)  
+  * Advanced functionality in Seaborn [here](http://blog.insightdatalabs.com/advanced-functionality-in-seaborn/)    
